@@ -1,0 +1,14 @@
+{
+  "name": "rtabs",
+  "version": "0.1.0",
+  "description": "a multi-document interface toolkit for managing multiple tabs and views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amdefine": "^1.0.0"
+  }
+}
